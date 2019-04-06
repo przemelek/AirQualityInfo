@@ -12,6 +12,7 @@ this side will try to obtain your geo location (Chrome or other browser will ask
 Then sever will save location.dat file, and will close itself.
 
 *How to start play with it?*
+---
 Clone repo, next do:
 npm install --save-dev electron
 
