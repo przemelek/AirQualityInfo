@@ -1,7 +1,7 @@
 {
-  "name": "AirQualityInfo",
+  "name": "airqualityinfo",
   "version": "1.0.0",
-  "description": "",
+  "description": "AirQualityInfo ===================",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
@@ -9,8 +9,16 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^4.1.0",
+    "electron": ">=7.2.4",
     "electron-packager": "^12.2.0"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/przemelek/AirQualityInfo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/przemelek/AirQualityInfo/issues"
+  },
+  "homepage": "https://github.com/przemelek/AirQualityInfo#readme"
 }
